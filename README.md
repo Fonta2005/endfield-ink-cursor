@@ -6,6 +6,8 @@
 
 > 个人同人作品，非商用。角色「祀」及相关美术版权归 © HYPERGRYPH / 鹰角网络所有。
 
+**[⬇ 直接下载完整包（v1.0.0）](https://github.com/Fonta2005/endfield-ink-cursor/releases/latest)** · 解压后双击 `install.cmd`
+
 ![在壁纸上的效果](previews/preview_on_wallpaper.png)
 
 ---
